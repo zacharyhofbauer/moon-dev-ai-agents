@@ -28,7 +28,7 @@ av==14.4.0
 Babel==2.15.0
 backcall==0.2.0
 backoff==2.2.1
-backports.asyncio.runner==1.2.0
+
 Backtesting==0.3.3
 backtrader==1.9.78.123
 base58==2.1.1
