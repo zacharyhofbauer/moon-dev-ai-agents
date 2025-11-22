@@ -408,7 +408,7 @@ tensorboard-data-server==0.7.2
 tensorflow==2.16.1
 tensorflow-io-gcs-filesystem==0.37.1
 
-tensorflow-metal==1.1.0
+
 termcolor==2.3.0
 terminado==0.18.1
 threadpoolctl==3.5.0
